@@ -1,0 +1,29 @@
+p{
+    font-family: 'Handlee', cursive;
+    color: #5A69FC;
+    font-size: 20px;
+}
+body{
+    background-color: #F3FF3C;
+}
+img{
+    width: 850px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    color: #11DE8A;
+    font-family: 'Rubik', sans-serif;
+}
+ul{
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: #CE2F0D;
+    font-size: 15px;
+}
+h3{
+    font-family: 'Rubik', sans-serif;
+    
+    
+}
